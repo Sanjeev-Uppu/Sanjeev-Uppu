@@ -1,38 +1,40 @@
-# Hi there, I'm Sanjeev Uppu 👋
+<h1 align="center">Hi 👋, I'm Sanjeev Uppu</h1>
+<h3 align="center">I am passionate about to work as a Java Developer.</h3>
 
-### 🌱 Aspiring Software Engineer & Seeking a role in Java Development 
-Welcome to my GitHub profile! I'm a B.Tech Computer Science student with a specialization in Data Science, exploring the world of coding and innovation. 🚀  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeevuppu&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeevuppu" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjeevuppu" alt="sanjeevuppu" /></a> </p>
 
-## 📜 About Me  
-I'm Sanjeev Uppu. I love learning new things and I learn quickly. Every day, I try to gain more knowledge and improve my skills. I enjoy personal growth and learning the latest technologies.
-I also enjoy working on projects where I can apply what I learn. Practical experience is important to me because it helps me understand concepts better. 
-My goal is to contribute to the tech industry by bringing in new ideas and solutions. I am always open to collaboration and learning from others. Teamwork and knowledge sharing are crucial for growth, and I value them highly.
-I believe that learning is a continuous journey, and I am committed to it and I am excited about the future and the endless possibilities that technology offers. I look forward to connecting with like-minded individuals and exploring opportunities to learn and grow together better.  
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Currently working on enhancing my skills in **Full-Stack Development**  
-- 🌱 Learning advanced **Java programming**
-- 🎯 Goals: Master DSA and programming and create impactful projects  
+- 🔭 I’m currently working on [Web Thoughts](Available Soon..)
 
----
+- 🌱 I’m currently learning **Java Full Stack**
 
-## 💻 Skills  
-- **Languages:** C, C++, Java, Python, JavaScript  
-- **Web Development:** HTML, CSS, React, Node.js
-- **Tools:**VS Code, Eclipse, GitHub, Jupyter Notebook
-  
----
+- 👯 I’m looking to collaborate on [Web Thoughts](Avilable soon...)
 
-## 🎓 Education  
-**B.Tech in Computer Science and Engineering (Data Science)**  
-- **Institution:** Raghu Institute of Technology. 
+- 🤝 I’m looking for help with [Web Thoughts](Available Soon...)
 
----
+- 👨‍💻 All of my projects are available at [Portfolio Link----](Portfolio Link----)
 
-## 🎯 Fun Facts  
-- I love playing chess and enjoy solving puzzles.  
----
+- 💬 Ask me about **Java Programming**
 
-## 🖤 Thanks for stopping by!  
-Feel free to explore my repositories, and let's build something amazing together!  
+- 📫 How to reach me **uppusanjeev2005@gmail.com**
+
+- 📄 Know about my experiences [Sanjeev Resume](Sanjeev Resume)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sanjeev uppu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjeev uppu" height="30" width="40" /></a>
+<a href="https://fb.com/sanjeev uppu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanjeev uppu" height="30" width="40" /></a>
+<a href="https://instagram.com/sanjjeev_rock_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanjjeev_rock_01" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeevuppu&show_icons=true&locale=en&layout=compact" alt="sanjeevuppu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjeevuppu&show_icons=true&locale=en" alt="sanjeevuppu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeevuppu&" alt="sanjeevuppu" /></p>
