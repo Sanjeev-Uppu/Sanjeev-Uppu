@@ -1,40 +1,135 @@
-<h1 align="center">Hi 👋, I'm Sanjeev Uppu</h1>
-<h3 align="center">I am passionate about to work as a Java Developer.</h3>
+<h1 align="center">Hey there! 👋 I'm Sanjeev Uppu</h1>
+<h3 align="center">🚀 Passionate Full Stack Web Developer | DevOps Explorer | DSA Lover</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeevuppu&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeevuppu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjeevuppu" alt="sanjeevuppu" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [Web Thoughts](Available Soon..)
-
-- 🌱 I’m currently learning **Java Full Stack**
-
-- 👯 I’m looking to collaborate on [Web Thoughts](Avilable soon...)
-
-- 🤝 I’m looking for help with [Web Thoughts](Available Soon...)
-
-- 👨‍💻 All of my projects are available at [Portfolio Link----](Portfolio Link----)
-
-- 💬 Ask me about **Java Programming**
-
-- 📫 How to reach me **uppusanjeev2005@gmail.com**
-
-- 📄 Know about my experiences [Sanjeev Resume](Sanjeev Resume)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sanjeev uppu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjeev uppu" height="30" width="40" /></a>
-<a href="https://fb.com/sanjeev uppu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanjeev uppu" height="30" width="40" /></a>
-<a href="https://instagram.com/sanjjeev_rock_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanjjeev_rock_01" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Java+%7C+Spring+Boot+%7C+React+%7C+MySQL+%7C+MongoDB+%7C+AWS;Full+Stack+Web+Developer+%F0%9F%94%A5;Cloud+%26+DevOps+Enthusiast+%F0%9F%9A%80;DSA+Lover+and+Problem+Solver+%F0%9F%A4%96;Always+Learning+%26+Building+%F0%9F%92%BB" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sanjeev-Uppu&label=Profile%20views&color=brightgreen&style=flat-square" alt="sanjeevuppu" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeevuppu&show_icons=true&locale=en&layout=compact" alt="sanjeevuppu" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjeevuppu&show_icons=true&locale=en" alt="sanjeevuppu" /></p>
+## 🔥 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeevuppu&" alt="sanjeevuppu" /></p>
+- 🧑‍💻 Java Full Stack Developer | Java | Spring Boot | React | MySQL
+- 🌱 Currently learning: **Next.js**, **TypeScript**, **AWS Lambda**, **CI/CD**
+- 🚀 Passionate about building **cloud-ready**, **secure** & **scalable systems**
+- 💼 Open for **Internships**, **Freelance Projects**, or **Collaborations**
+- 📫 Reach me: uppusanjeev2005@gmail.com | [LinkedIn](https://linkedin.com/in/sanjeev-uppu)
+- 🌐 Portfolio: [Coming Soon!](#)
+
+---
+
+## 🧠 Skills
+
+### 🚀 Languages & Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,ts,bootstrap,mysql,mongodb,cpp,python,c,nextjs,nodejs,express,docker,aws,linux,git,github,figma,vscode,eclipse,intellij" />
+</p>
+
+---
+
+## 👨‍💻 Projects
+
+### 🌟 Web Thoughts (Java Full Stack)
+> Advanced, animated frontend with modern UI, powered by Spring Boot, MySQL & React.
+
+### 💸 Trustly Payment Integration
+> Built secure microservices with Spring Boot, Spring Security & AWS EC2.
+
+### 🎵 Music App @ EY GDS
+> Django backend + responsive frontend with Bootstrap & JavaScript. SQL for DB.
+
+---
+
+## 🏆 Achievements
+
+- AIR 298 in Programming
+- 93.84% in JEE Mains 2022
+- 73rd Rank in APRDC CET
+- CGPA: **8.7** in BTech CSE (Data Science)
+
+---
+
+## 🎓 Certifications
+
+- 🏅 NPTEL - Java Programming (Elite)
+- 🏅 NPTEL - Data Structures (Elite)
+- ✅ EduSkills Cloud Essentials
+- ✅ Coding Ninjas Java Training
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjeev-Uppu&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev-Uppu&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjeev-Uppu&theme=tokyonight&hide_border=true" width="98%"/>
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sanjeev-Uppu&theme=darkhub&no-frame=true&column=7" />
+</p>
+
+---
+
+## 📆 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjeev-Uppu&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sanjeev-uppu" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
+  <a href="https://twitter.com/sanjeevuppu" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="30"/></a>
+  <a href="https://instagram.com/sanjeev_uppu" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
+  <a href="mailto:uppusanjeev2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
+</p>
+
+---
+
+## ✨ Fun Facts
+
+- 🧩 Solving DSA problems on LeetCode, GFG, Codeforces
+- 💬 I love mentoring and teaching tech concepts
+- 🛠 Always building something new!
+
+---
+
+## 🎯 Current Goals
+
+- 📘 Master **Next.js 14**, **TypeScript**
+- 💡 Contribute to open-source **healthcare tools**
+- ✍️ Write **blogs** & share **tech content**
+
+---
+
+## 💬 Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+> **"Code is like humor. When you have to explain it, it’s bad." – Cory House**
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
+
+---
+
+⭐ If you like what I do, give me a star on [GitHub](https://github.com/Sanjeev-Uppu)!
+
