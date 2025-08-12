@@ -1,10 +1,9 @@
 <h1 align="center">Hey there! 👋 I'm Sanjeev Uppu</h1>
-<h3 align="center">🚀 Passionate Full Stack Web Developer | DevOps Explorer | DSA Lover</h3>
+<h3 align="center">🚀 Passionate Full Stack Web Developer | Security + Performance Focussed | DSA Lover</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Java+%7C+Spring+Boot+%7C+React+%7C+MySQL+%7C+MongoDB+%7C+AWS;Full+Stack+Web+Developer+%F0%9F%94%A5;Cloud+%26+DevOps+Enthusiast+%F0%9F%9A%80;DSA+Lover+and+Problem+Solver+%F0%9F%A4%96;Always+Learning+%26+Building+%F0%9F%92%BB" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sanjeev-Uppu&label=Profile%20views&color=brightgreen&style=flat-square" alt="sanjeevuppu" />
 </p>
@@ -14,7 +13,7 @@
 ## 🔥 About Me
 
 - 🧑‍💻 Java Full Stack Developer | Java | Spring Boot | React | MySQL
-- 🌱 Currently learning: **Next.js**, **TypeScript**, **AWS Lambda**, **CI/CD**
+- 🌱 Currently learning: **Node.js**, **Express.js**, **AWS**
 - 🚀 Passionate about building **cloud-ready**, **secure** & **scalable systems**
 - 💼 Open for **Internships**, **Freelance Projects**, or **Collaborations**
 - 📫 Reach me: uppusanjeev2005@gmail.com | [LinkedIn](https://linkedin.com/in/sanjeev-uppu)
@@ -26,7 +25,7 @@
 
 ### 🚀 Languages & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,ts,bootstrap,mysql,mongodb,cpp,python,c,nextjs,nodejs,express,docker,aws,linux,git,github,figma,vscode,eclipse,intellij" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,ts,bootstrap,mysql,mongodb,cpp,python,c,nextjs,nodejs,express,aws,linux,git,github,vscode,eclipse,intellij,postman,bit bucket"/>
 </p>
 
 ---
@@ -46,19 +45,18 @@
 
 ## 🏆 Achievements
 
-- AIR 298 in Programming
+- AIR 298 in Coding Ninjas Programming Competetion
 - 93.84% in JEE Mains 2022
 - 73rd Rank in APRDC CET
-- CGPA: **8.7** in BTech CSE (Data Science)
 
 ---
 
 ## 🎓 Certifications
 
-- 🏅 NPTEL - Java Programming (Elite)
-- 🏅 NPTEL - Data Structures (Elite)
-- ✅ EduSkills Cloud Essentials
-- ✅ Coding Ninjas Java Training
+- 🏅 NPTEL - Problem Solving in Programming in C (Elite)
+- 🏅 NPTEL - Moder C++ (Elite)
+- ✅ EduSkills - Java Fullstack Developer
+- ✅ EduSkills - AWS Cloud
 
 ---
 
@@ -109,7 +107,7 @@
 
 ## 🎯 Current Goals
 
-- 📘 Master **Next.js 14**, **TypeScript**
+- 📘 Master **MERN Stack**, **Advance DSA**, **AI Tools**
 - 💡 Contribute to open-source **healthcare tools**
 - ✍️ Write **blogs** & share **tech content**
 
@@ -123,7 +121,7 @@
 
 ---
 
-> **"Code is like humor. When you have to explain it, it’s bad." – Cory House**
+> **"First, solve the problem. Then, write the code."**
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
