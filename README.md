@@ -17,7 +17,7 @@
 - 🚀 Passionate about building **cloud-ready**, **secure** & **scalable systems**
 - 💼 Open for **Internships**, **Freelance Projects**, or **Collaborations**
 - 📫 Reach me: uppusanjeev2005@gmail.com | [LinkedIn](https://linkedin.com/in/sanjeev-uppu)
-- 🌐 Portfolio: [Portfolio](sanjeev-personal-portfolio-seven.vercel.app)
+- 🌐 Portfolio: [Portfolio](https://sanjeev-personal-portfolio-seven.vercel.app/)
 
 ---
 
