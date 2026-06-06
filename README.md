@@ -17,7 +17,7 @@
 - 🚀 Passionate about building **cloud-ready**, **secure** & **scalable systems**
 - 💼 Open for **Internships**, **Freelance Projects**, or **Collaborations**
 - 📫 Reach me: uppusanjeev2005@gmail.com | [LinkedIn](https://linkedin.com/in/sanjeev-uppu)
-- 🌐 Portfolio: [Coming Soon!](#)
+- 🌐 Portfolio: [Portfolio](sanjeev-personal-portfolio-seven.vercel.app)
 
 ---
 
@@ -91,7 +91,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/sanjeev-uppu" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
   <a href="https://twitter.com/sanjeevuppu" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="30"/></a>
-  <a href="https://instagram.com/sanjeev_uppu" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
+  <a href="https://www.instagram.com/sanjeev_rock_01/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
   <a href="mailto:uppusanjeev2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
 </p>
 
